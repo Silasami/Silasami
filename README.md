@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sıla Sami</h1>
 <h3 align="center">ı am network&data engineer from Turkey.</h3>
 
-- 🌱 I’m currently learning **SAP**
+- 🌱 I’m currently learning **SAP and CISCO**
 
 - 💬 Ask me about **Python HTML5 CSS**
 
